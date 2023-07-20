@@ -9,3 +9,4 @@ This is output for day 1, Let's wait for the next adjustments tomorrow.
 ![image](https://github.com/dungnguyen-art/Web_Login_Register/assets/59666831/876d30d2-5deb-43f5-b60e-c311551c61ca)
 =======
 >>>>>>> c65963f (Initial commit)
+![Alt text](image.png)
